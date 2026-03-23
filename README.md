@@ -2,6 +2,9 @@
 
 -Create React app with vite
 -Configured TaiwindCSS
+-Header
+-Login Form
+-Signup Form
 
 
 
